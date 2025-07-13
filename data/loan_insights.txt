@@ -1,0 +1,45 @@
+# Definitions
+
+Credit History: A record of a person's past borrowing and repayment behavior. A good credit history (value 1.0) signals financial responsibility and greatly improves the chance of loan approval.
+
+Loan Amount: The principal amount of money the applicant is requesting as a loan. It is typically expressed in thousands of rupees.
+
+Loan Term: The period (in months) over which the applicant agrees to repay the loan. Common terms are 360 months (30 years).
+
+Applicant Income: The monthly earnings of the main loan applicant. Higher applicant income improves the probability of approval.
+
+Coapplicant Income: The monthly income of a second person (such as a spouse or parent) applying jointly for the loan. This increases total household income and often boosts loan eligibility, especially for low-income primary applicants.
+
+Dependents: The number of individuals financially dependent on the applicant, such as children or elderly parents. A higher number of dependents may reduce disposable income and slightly lower approval chances.
+
+Education: Indicates whether the applicant is a "Graduate" or "Not Graduate". Education level showed little correlation with loan approval rates.
+
+Self Employed: Indicates whether the applicant is self-employed. Such applicants often face slightly lower approval rates due to income irregularity.
+
+Property Area: The location of the property being financed — Urban, Semiurban, or Rural. Applicants from Semiurban areas had the highest approval rates.
+
+Marital Status: Indicates if the applicant is married. This feature did not significantly affect approval outcomes.
+
+Gender: Gender (Male or Female) had minimal influence on loan approval. Approval rates were similar when controlling for income and credit history.
+
+# Key Insights
+
+A good credit history (1.0) is one of the strongest predictors of loan approval.
+
+Applicants without a credit history (0.0) had much lower approval rates, even with moderate to high income.
+
+Living in a Semiurban area positively affected approval chances more than Urban or Rural areas.
+
+Applicants earning less than Rs. 3000 per month were typically rejected unless supported by high coapplicant income or a longer loan term.
+
+Strong coapplicant income often made a decisive difference, especially for lower-income main applicants.
+
+Self-employed applicants required higher income levels than salaried individuals, due to perceived financial uncertainty.
+
+Shorter loan terms (e.g., 120 months) were sometimes favored when paired with strong credit and income profiles.
+
+Financial variables like income and credit history were more predictive than personal characteristics like gender, marital status, or education.
+
+Female applicants were approved at similar rates to male applicants when financial metrics were equal.
+
+The number of dependents only negatively influenced approval when income was already low.
