@@ -91,6 +91,6 @@ streamlit run app.py
 ---
 ## 🌐 Live Demo
 
-Check out the Live App : 
+Check out the Live App : https://loanassistant-07.streamlit.app/
 
 ---
