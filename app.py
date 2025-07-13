@@ -281,6 +281,7 @@ st.markdown("""
     background-color: rgba(0, 188, 212, 0.1);
     transition: all 0.3s ease-in-out;
     cursor: pointer;
+    margin-bottom: 25px;
 }
 
 .chatbot-header:hover {
