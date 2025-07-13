@@ -6,3 +6,4 @@ numpy
 scikit-learn
 matplotlib
 faiss-cpu
+sentence-transformers
